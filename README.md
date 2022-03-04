@@ -25,7 +25,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a> to make it public
+Project created by <a href="https://github.com/mrvickyser">Karthik_terror-boy</a> to make it public
     <br>
        | © |
         Reserved |
@@ -39,9 +39,9 @@ Project created by <a href="https://github.com/terror-boy">Karthik_terror-boy</a
     <img src="https://img.shields.io/github/repo-size/terror-boy/WhiteDevil?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/terror-boy/followers"><img title="Followers" src="https://img.shields.io/github/followers/terror-boy?color=blue&style=flat-square"></a>
-<a href="https://github.com/terror-boy/WhiteDevil/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/terror-boy/WhiteDevil?color=blue&style=flat-square"></a>
-<a href="https://github.com/terror-boy/WhiteDevil/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrvickyser/WhiteDevil?color=blue&style=flat-square"></a>
-<a href="https://github.com/terror-boy/WhiteDevil/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/terror-boy/WhiteDevil?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/mrvickyser/WhiteDevil/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/mrvickyser/WhiteDevil?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrvickyser/WhiteDevil/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mrvickyser/WhiteDevil?color=blue&style=flat-square"></a>
+<a href="https://github.com/mrvickyser/WhiteDevil/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mrvickyser/WhiteDevil?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-black.svg"</a>
 </p>
   
